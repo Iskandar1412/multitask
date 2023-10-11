@@ -1,7 +1,7 @@
 syntax = "proto3";
 package servicioproto;
 
-option go_package = "github.com/Iskandar1412/multitask/proto";
+option go_package = "github.com/Iskandar1412/multitask/tree/main/proto";
 
 message CalificacionRequest {
     int64 carnet = 1;
